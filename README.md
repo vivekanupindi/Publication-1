@@ -51,7 +51,7 @@ The linear baseline offers an interpretable starting point, but its performance 
 @article{anupindi2025logistic,
   author  = {Anupindi, Vivek},
   title   = {Comparative Evaluation of Logistic Regression for ICD-10 Code Classification Using the CodiEsp Clinical Text Dataset},
-  journal = {International Journal for Research in Applied Science \\& Engineering Technology},
+  journal = {International Journal for Research in Applied Science \& Engineering Technology},
   volume  = {13},
   number  = {XII},
   year    = {2025},
